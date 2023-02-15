@@ -1,0 +1,2 @@
+# adblock
+add ?raw=true
